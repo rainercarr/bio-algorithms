@@ -1,0 +1,3 @@
+Forking and pull request.
+
+This is a plain text, some changes I made. I found the bug and I would like for Johnathan to include my fixes into his code.
